@@ -4,7 +4,7 @@
 
 💻 Skilled in
 
-**Languages**: Python, Java, HTML, CSS  
+**Languages**: Python, Java,Javascript, HTML & CSS, PHP.
 
 - **Frameworks**: React, Angular, Express, Nodejs, Flutter, VUE.js
   
