@@ -6,12 +6,12 @@
 
 **Languages**: Python, Java, HTML, CSS  
 
-- **Frameworks**: [You can mention frameworks if applicable, e.g., Flask, Django, React]
-- 
-- **Technologies**: Web Development, Mobile Programming
-- 
+- **Frameworks**: React, Angular, Express, Nodejs, Flutter, VUE.js
+  
+- **Technologies**: Web Development, Full stack developemnt, Problem solving
+  
 - **Tools**: Git, VS Code,
-- 
+  
 🌟 Experienced as a Web Development Intern, passionate about web development, programming, and technology.
 
 
