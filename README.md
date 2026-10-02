@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://saiharshith007.github.io/Harshith-Goud/"><img src="https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://harshithgoud-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/harshith08/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:saiharshithgoudnagirigari@gmail.com"><img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://saiharshith007.github.io/Harshith-Goud/Harshith_AI_Engineer.pdf"><img src="https://img.shields.io/badge/Resume-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+  <a href="https://harshithgoud-portfolio.vercel.app/Harshith_AI_Engineer.pdf"><img src="https://img.shields.io/badge/Resume-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 </p>
 
 ---
